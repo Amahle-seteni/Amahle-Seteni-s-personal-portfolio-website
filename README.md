@@ -1,60 +1,51 @@
-# Amahle Seteni Portfolio
+# 🌐 Amahle Seteni – Personal Portfolio Website
 
-This is a professional portfolio website showcasing education, projects, achievements, and experiences through a modern, interactive design.
+Welcome to my personal portfolio repository!  
+This website showcases my journey, skills, and projects as I transition into the IT industry, with a focus on **cloud computing, AI, and software development**.
 
-## Deployment Instructions
+---
 
-### Prerequisites
-- Node.js (version 16 or higher)
-- npm or yarn package manager
+## ✨ About the Project
+This is a **modern, responsive portfolio website** built to highlight my work, experience, and hackathon projects.  
+It serves as my professional digital presence and will be updated regularly as I grow in the tech space.
 
-### Installation
-1. Extract the portfolio files to your desired location.
-2. Open a terminal window and navigate to the extracted folder.
-3. Install the dependencies:
-   ```
-   npm install
-   ```
+---
 
-### Running in Development Mode
-To run the application in development mode:
-```
-npm run dev
-```
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (React.js optional if used)
+- **Styling:** Tailwind CSS / Custom CSS
+- **Deployment:** GitHub Pages / Vercel
+- **Version Control:** Git & GitHub
 
-### Building for Production
-To build the application for production:
-```
-npm run build
-```
+---
 
-The built files will be in the `dist` folder, which you can then deploy to your hosting platform of choice.
+## 📂 Features
+- 🎨 Clean and professional UI/UX  
+- 📱 Mobile-friendly, responsive design  
+- 📖 Sections for:
+  - About Me  
+  - Skills & Tools  
+  - Projects (Cloud Quote app, Hackathon work, etc.)  
+  - Contact Information  
+- 🚀 Easy to update and expand
 
-### Deployment Options
-You can deploy this portfolio to various platforms:
+---
 
-1. **Vercel**
-   - Sign up on [Vercel](https://vercel.com)
-   - Install Vercel CLI: `npm i -g vercel`
-   - Run `vercel` in the project directory
-   - Follow the prompts
+## 🔗 Live Demo
+[👉 View Portfolio Website Here](https://your-live-link.com)  
+(*Update this with your GitHub Pages or Vercel deployment link.*)
 
-2. **Netlify**
-   - Sign up on [Netlify](https://netlify.com)
-   - Drag and drop the `dist` folder to Netlify's upload area
-   - Or connect your GitHub repository for continuous deployment
+---
 
-3. **GitHub Pages**
-   - Create a GitHub repository
-   - Push your code to the repository
-   - Enable GitHub Pages in the repository settings
+## 👩‍💻 Author
+**Amahle Seteni**  
+🌍 Cape Town, South Africa  
+📧 [Your Email Here]  
+💼 [LinkedIn](https://www.linkedin.com/in/amahle-seteni)  
+🐙 [GitHub](https://github.com/Amahle-seteni)
 
-## Project Structure
-- `client`: Frontend React code
-- `server`: Backend Express server
-- `shared`: Shared types and schemas
-- `attached_assets`: Images and other assets
+---
 
-## Customization
-You can customize the portfolio by editing the constants file at `client/src/lib/constants.ts`, which contains all your personal information, skills, education, and projects.
+## 📜 License
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
