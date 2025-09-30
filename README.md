@@ -6,12 +6,14 @@ This website showcases my journey, skills, and projects as I transition into the
 ---
 
 ## ✨ About the Project
+
 This is a **modern, responsive portfolio website** built to highlight my work, experience, and hackathon projects.  
 It serves as my professional digital presence and will be updated regularly as I grow in the tech space.
 
 ---
 
 ## 🛠️ Tech Stack
+
 - **Frontend:** HTML5, CSS3, JavaScript (React.js optional if used)
 - **Styling:** Tailwind CSS / Custom CSS
 - **Deployment:** GitHub Pages / Vercel
@@ -20,6 +22,7 @@ It serves as my professional digital presence and will be updated regularly as I
 ---
 
 ## 📂 Features
+
 - 🎨 Clean and professional UI/UX  
 - 📱 Mobile-friendly, responsive design  
 - 📖 Sections for:
@@ -32,20 +35,22 @@ It serves as my professional digital presence and will be updated regularly as I
 ---
 
 ## 🔗 Live Demo
+
 [👉 View Portfolio Website Here](https://your-live-link.com)  
 (*Update this with your GitHub Pages or Vercel deployment link.*)
 
 ---
 
 ## 👩‍💻 Author
+
 **Amahle Seteni**  
 🌍 Cape Town, South Africa  
-📧 [Your Email Here]  
+📧 ms.amahleseteni2@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/amahle-seteni)  
 🐙 [GitHub](https://github.com/Amahle-seteni)
 
 ---
 
 ## 📜 License
-This project is licensed under the [Apache 2.0 License](LICENSE).
 
+This project is licensed under the [Apache 2.0 License](LICENSE).
